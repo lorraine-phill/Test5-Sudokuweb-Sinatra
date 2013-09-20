@@ -1,4 +1,5 @@
 require 'sinatra'
+require 'newrelic'
 require_relative './lib/sudoku'
 require_relative './lib/cell'
 require 'sinatra/partial' 

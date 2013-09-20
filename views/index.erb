@@ -1,0 +1,56 @@
+
+
+    <html>
+    <head>
+      <title>Sudoku Game</title>   
+      <!-- link to the CSS stylesheet -->
+      <link href="/stylesheets/application.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+       <h1>Life is too short for playing Sudoku</h1>
+
+     <div id="flash">
+      <%= flash[:notice] %>
+     </div>
+
+       <div id="sudoku">
+        <form action="/" method="post">
+          <!-- all boxes, rows and cells -->
+      <!-- one div for each row -->
+      <% 3.times do |row| %>
+        <div class='row'>
+            <!-- we want to create separate div elements for boxes to style them using CSS -->
+          <% 3.times do |box| %>
+              <div class="box">
+             <!-- each box will have nine cells -->
+             <% 3.times do |cell_row| %>
+                  <div class="cell-row">
+                 <% 3.times do |cell| %>
+                      <div class="cell">
+                        
+                        <!-- every cell will have an input field -->
+                        <% cell_index = row * 27 + box * 3 + cell_row * 9 + cell %>
+                        <% cell_value = @current_solution[cell_index] %>
+                        <% cell_value = cell_value(@current_solution[cell_index]) %>
+                            <% colour_class = colour_class(@check_solution, @puzzle[cell_index], @current_solution[cell_index], @solution[cell_index])  %>
+
+                        <input type="text" name="cell[]" maxlength="1" autocomplete="off" value="<%= cell_value %>" class="<%= colour_class %>"> 
+
+
+
+                      </div>
+                    <% end %>
+                  </div>
+                <% end %>
+              </div>
+            <% end %>
+          </div>
+        <% end %>
+      </div>
+    
+          <button>Check Solution</button>
+        </form>
+    </div>
+
+    </body>
+    </html>

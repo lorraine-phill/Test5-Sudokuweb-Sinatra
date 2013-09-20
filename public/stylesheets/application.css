@@ -1,0 +1,34 @@
+div.box, div.cell {
+	display: inline-block;
+}
+
+.cell input {
+	width: 30px;
+	height: 30px;
+}
+
+#sudoku {
+font-size: 0;
+text-align: center;
+}
+
+body {
+	text-align: center;
+	font-family: Arial;
+}
+
+.incorrect {
+      background-color: yellow;
+}
+
+.correct {
+      background-color: green;
+}
+
+.value-provided {
+      background-color: #DDD;
+}
+
+ #flash {
+      margin: 20px;
+}

@@ -18,7 +18,7 @@ body {
 }
 
 .incorrect {
-      background-color: yellow;
+      background-color: red;
 }
 
 .correct {

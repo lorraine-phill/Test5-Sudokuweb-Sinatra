@@ -22,8 +22,8 @@ helpers do
           'incorrect'
         elsif !must_be_guessed
           'value-provided'
-        elsif tried_to_guess
-           'correct'
+        # elsif tried_to_guess
+        #    'correct'
         end
       end
     end
@@ -57,7 +57,8 @@ helpers do
       sudoku = random_sudoku
       session[:solution] = sudoku
       session[:puzzle] = puzzle(sudoku)
-      session[:current_solution] = session[:puzzle]    
+      session[:current_solution] = session[:puzzle] 
+
     end
 
     def prepare_to_check_solution
@@ -68,7 +69,7 @@ helpers do
     def prepare_to_check_solution
       @check_solution = session[:check_solution]
       if @check_solution
-        flash[:notice] = "Incorrect values are highlighted in red. Correct values are highlighted in green."
+        flash[:notice] = "Incorrect values are highlighted in red."
       end
       session[:check_solution] = nil
     end
@@ -88,6 +89,7 @@ helpers do
       @puzzle = session[:puzzle]
       # raise "test"
       erb :index
+
     end
 
     post '/' do
@@ -99,13 +101,6 @@ helpers do
       session[:check_solution] = true
       redirect to("/")
     end
-
-    # post '/' do
-    #   cells = params["cell"]
-    #   session[:current_solution] = cells.map{|value| value.to_i }.join
-    #   session[:check_solution] = true
-    #   redirect to("/")
-    # end
 
     get '/solution' do
         @current_solution = session[:solution]

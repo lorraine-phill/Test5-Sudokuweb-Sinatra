@@ -1,3 +1,10 @@
+body {
+        background: url("Back.png") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+        background-color: white;
+        text-align: center;
+		font-family: Arial;
+         }
+
 div.box, div.cell {
 	display: inline-block;
 }
@@ -5,16 +12,12 @@ div.box, div.cell {
 .cell input {
 	width: 30px;
 	height: 30px;
+	color: orange;
 }
 
 #sudoku {
-font-size: 0;
-text-align: center;
-}
-
-body {
+	font-size: 0;
 	text-align: center;
-	font-family: Arial;
 }
 
 .incorrect {
@@ -26,9 +29,15 @@ body {
 }
 
 .value-provided {
-      background-color: #DDD;
+      background-color: #680BAB;
 }
 
- #flash {
+#flash {
       margin: 20px;
+}
+p {
+	padding-top: 30px;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
 }

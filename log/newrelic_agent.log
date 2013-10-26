@@ -4211,3 +4211,1056 @@
 [09/21/13 22:36:46 +0100 Lorraines-MacBook-Pro.local (1500)] INFO : Installing deferred Rack instrumentation
 [09/21/13 22:36:46 +0100 Lorraines-MacBook-Pro.local (1500)] INFO : Finished instrumentation
 [09/21/13 22:36:46 +0100 Lorraines-MacBook-Pro.local (1500)] INFO : Doing deferred dependency-detection before Rack startup
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Starting the New Relic agent in "development" environment.
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Reading configuration from newrelic.yml
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Enabling the Request Sampler.
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Environment: development
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Dispatcher: webrick
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Application: mighty-harbor-3006
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] WARN : Agent configured not to send data in this environment.
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Installing Net instrumentation
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Installing Sinatra instrumentation
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Installing deferred Rack instrumentation
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Finished instrumentation
+[10/25/13 18:06:20 +0100 Lorraines-MacBook-Pro.local (41449)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Reading configuration from newrelic.yml
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Enabling the Request Sampler.
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Environment: development
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Dispatcher: webrick
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Application: mighty-harbor-3006
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] WARN : Agent configured not to send data in this environment.
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Installing Net instrumentation
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Installing Sinatra instrumentation
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Installing deferred Rack instrumentation
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Finished instrumentation
+[10/26/13 00:51:13 +0100 Lorraines-MacBook-Pro.local (43534)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Reading configuration from newrelic.yml
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Enabling the Request Sampler.
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Environment: development
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Dispatcher: webrick
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Application: mighty-harbor-3006
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] WARN : Agent configured not to send data in this environment.
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Installing Net instrumentation
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Installing Sinatra instrumentation
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Installing deferred Rack instrumentation
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Finished instrumentation
+[10/26/13 00:52:46 +0100 Lorraines-MacBook-Pro.local (43562)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Reading configuration from newrelic.yml
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Enabling the Request Sampler.
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Environment: development
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Dispatcher: webrick
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Application: mighty-harbor-3006
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] WARN : Agent configured not to send data in this environment.
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Installing Net instrumentation
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Installing Sinatra instrumentation
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Installing deferred Rack instrumentation
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Finished instrumentation
+[10/26/13 00:52:55 +0100 Lorraines-MacBook-Pro.local (43567)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Reading configuration from newrelic.yml
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Enabling the Request Sampler.
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Environment: development
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Dispatcher: webrick
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Application: mighty-harbor-3006
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] WARN : Agent configured not to send data in this environment.
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Installing Net instrumentation
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Installing Sinatra instrumentation
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Installing deferred Rack instrumentation
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Finished instrumentation
+[10/26/13 00:53:03 +0100 Lorraines-MacBook-Pro.local (43572)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Reading configuration from newrelic.yml
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Enabling the Request Sampler.
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Environment: development
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Dispatcher: webrick
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Application: mighty-harbor-3006
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] WARN : Agent configured not to send data in this environment.
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Installing Net instrumentation
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Installing Sinatra instrumentation
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Installing deferred Rack instrumentation
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Finished instrumentation
+[10/26/13 00:57:37 +0100 Lorraines-MacBook-Pro.local (43644)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Reading configuration from newrelic.yml
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Enabling the Request Sampler.
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Environment: development
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Dispatcher: webrick
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Application: mighty-harbor-3006
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] WARN : Agent configured not to send data in this environment.
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Installing Net instrumentation
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Installing Sinatra instrumentation
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Installing deferred Rack instrumentation
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Finished instrumentation
+[10/26/13 00:58:19 +0100 Lorraines-MacBook-Pro.local (43657)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Enabling the Request Sampler.
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Environment: development
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Dispatcher: webrick
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Installing Net instrumentation
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Finished instrumentation
+[10/26/13 01:09:15 +0100 Lorraines-MacBook-Pro.local (43835)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Enabling the Request Sampler.
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Environment: development
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Dispatcher: webrick
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Installing Net instrumentation
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Finished instrumentation
+[10/26/13 01:09:53 +0100 Lorraines-MacBook-Pro.local (43847)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Enabling the Request Sampler.
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Environment: development
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Dispatcher: webrick
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Installing Net instrumentation
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Finished instrumentation
+[10/26/13 01:13:21 +0100 Lorraines-MacBook-Pro.local (43903)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Enabling the Request Sampler.
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Environment: development
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Dispatcher: webrick
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Installing Net instrumentation
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Finished instrumentation
+[10/26/13 01:14:16 +0100 Lorraines-MacBook-Pro.local (43919)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Enabling the Request Sampler.
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Environment: development
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Dispatcher: webrick
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Installing Net instrumentation
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Finished instrumentation
+[10/26/13 01:15:12 +0100 Lorraines-MacBook-Pro.local (43936)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Enabling the Request Sampler.
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Environment: development
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Dispatcher: webrick
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Installing Net instrumentation
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Finished instrumentation
+[10/26/13 01:15:14 +0100 Lorraines-MacBook-Pro.local (43940)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Enabling the Request Sampler.
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Environment: development
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Dispatcher: webrick
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Installing Net instrumentation
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Finished instrumentation
+[10/26/13 01:15:41 +0100 Lorraines-MacBook-Pro.local (43950)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Enabling the Request Sampler.
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Environment: development
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Dispatcher: webrick
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Installing Net instrumentation
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Finished instrumentation
+[10/26/13 01:17:40 +0100 Lorraines-MacBook-Pro.local (43982)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Enabling the Request Sampler.
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Environment: development
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Dispatcher: webrick
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Installing Net instrumentation
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Finished instrumentation
+[10/26/13 01:17:41 +0100 Lorraines-MacBook-Pro.local (43986)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Enabling the Request Sampler.
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Environment: development
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Dispatcher: webrick
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Installing Net instrumentation
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Finished instrumentation
+[10/26/13 01:18:07 +0100 Lorraines-MacBook-Pro.local (43995)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Enabling the Request Sampler.
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Environment: development
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Dispatcher: webrick
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Installing Net instrumentation
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Finished instrumentation
+[10/26/13 01:19:37 +0100 Lorraines-MacBook-Pro.local (44022)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Enabling the Request Sampler.
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Environment: development
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Dispatcher: webrick
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Installing Net instrumentation
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Finished instrumentation
+[10/26/13 01:19:46 +0100 Lorraines-MacBook-Pro.local (44028)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Enabling the Request Sampler.
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Environment: development
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Dispatcher: webrick
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Installing Net instrumentation
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Finished instrumentation
+[10/26/13 01:19:47 +0100 Lorraines-MacBook-Pro.local (44031)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Enabling the Request Sampler.
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Environment: development
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Dispatcher: webrick
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Installing Net instrumentation
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Finished instrumentation
+[10/26/13 01:19:59 +0100 Lorraines-MacBook-Pro.local (44038)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Environment: development
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Dispatcher: webrick
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Installing Net instrumentation
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Finished instrumentation
+[10/26/13 01:20:10 +0100 Lorraines-MacBook-Pro.local (44044)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Environment: development
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Dispatcher: webrick
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Installing Net instrumentation
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Finished instrumentation
+[10/26/13 01:20:11 +0100 Lorraines-MacBook-Pro.local (44047)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Environment: development
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Dispatcher: webrick
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Installing Net instrumentation
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Finished instrumentation
+[10/26/13 01:20:18 +0100 Lorraines-MacBook-Pro.local (44052)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Environment: development
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Dispatcher: webrick
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Installing Net instrumentation
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Finished instrumentation
+[10/26/13 01:20:32 +0100 Lorraines-MacBook-Pro.local (44058)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Environment: development
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Dispatcher: webrick
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Installing Net instrumentation
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Finished instrumentation
+[10/26/13 01:20:43 +0100 Lorraines-MacBook-Pro.local (44064)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Environment: development
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Dispatcher: webrick
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Installing Net instrumentation
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Finished instrumentation
+[10/26/13 01:20:52 +0100 Lorraines-MacBook-Pro.local (44069)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Environment: development
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Dispatcher: webrick
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Installing Net instrumentation
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Finished instrumentation
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44073)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Environment: development
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Dispatcher: webrick
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Installing Net instrumentation
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Finished instrumentation
+[10/26/13 01:20:55 +0100 Lorraines-MacBook-Pro.local (44076)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Environment: development
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Dispatcher: webrick
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Installing Net instrumentation
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Finished instrumentation
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44080)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Enabling the Request Sampler.
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Environment: development
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Dispatcher: webrick
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Installing Net instrumentation
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Finished instrumentation
+[10/26/13 01:20:57 +0100 Lorraines-MacBook-Pro.local (44083)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Enabling the Request Sampler.
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Environment: development
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Dispatcher: webrick
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Installing Net instrumentation
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Finished instrumentation
+[10/26/13 01:21:00 +0100 Lorraines-MacBook-Pro.local (44086)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Enabling the Request Sampler.
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Environment: development
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Dispatcher: webrick
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Installing Net instrumentation
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Finished instrumentation
+[10/26/13 01:25:23 +0100 Lorraines-MacBook-Pro.local (44161)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Enabling the Request Sampler.
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Environment: development
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Dispatcher: webrick
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Installing Net instrumentation
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Finished instrumentation
+[10/26/13 01:49:47 +0100 Lorraines-MacBook-Pro.local (44751)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Enabling the Request Sampler.
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Environment: development
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Dispatcher: webrick
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Installing Net instrumentation
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Finished instrumentation
+[10/26/13 01:49:48 +0100 Lorraines-MacBook-Pro.local (44754)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Enabling the Request Sampler.
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Environment: development
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Dispatcher: webrick
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Installing Net instrumentation
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Finished instrumentation
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44758)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Enabling the Request Sampler.
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Environment: development
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Dispatcher: webrick
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Installing Net instrumentation
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Finished instrumentation
+[10/26/13 01:49:51 +0100 Lorraines-MacBook-Pro.local (44761)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Enabling the Request Sampler.
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Environment: development
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Dispatcher: webrick
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Installing Net instrumentation
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Finished instrumentation
+[10/26/13 01:50:24 +0100 Lorraines-MacBook-Pro.local (44772)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Enabling the Request Sampler.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Environment: development
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Dispatcher: webrick
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Installing Net instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Finished instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44775)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Enabling the Request Sampler.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Environment: development
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Dispatcher: webrick
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Installing Net instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Finished instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44776)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Enabling the Request Sampler.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Environment: development
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Dispatcher: webrick
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Installing Net instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Finished instrumentation
+[10/26/13 01:50:25 +0100 Lorraines-MacBook-Pro.local (44781)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Enabling the Request Sampler.
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Environment: development
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Dispatcher: webrick
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Installing Net instrumentation
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Finished instrumentation
+[10/26/13 01:50:51 +0100 Lorraines-MacBook-Pro.local (44791)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Enabling the Request Sampler.
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Environment: development
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Dispatcher: webrick
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Installing Net instrumentation
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Finished instrumentation
+[10/26/13 01:50:52 +0100 Lorraines-MacBook-Pro.local (44794)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Enabling the Request Sampler.
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Environment: development
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Dispatcher: webrick
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Installing Net instrumentation
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Finished instrumentation
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44800)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Enabling the Request Sampler.
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Environment: development
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Dispatcher: webrick
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Installing Net instrumentation
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Finished instrumentation
+[10/26/13 01:51:03 +0100 Lorraines-MacBook-Pro.local (44803)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Enabling the Request Sampler.
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Environment: development
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Dispatcher: webrick
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Installing Net instrumentation
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Finished instrumentation
+[10/26/13 01:51:04 +0100 Lorraines-MacBook-Pro.local (44806)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Enabling the Request Sampler.
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Environment: development
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Dispatcher: webrick
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Installing Net instrumentation
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Finished instrumentation
+[10/26/13 01:51:22 +0100 Lorraines-MacBook-Pro.local (44814)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Enabling the Request Sampler.
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Environment: development
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Dispatcher: webrick
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Installing Net instrumentation
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Finished instrumentation
+[10/26/13 01:51:23 +0100 Lorraines-MacBook-Pro.local (44817)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Enabling the Request Sampler.
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Environment: development
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Dispatcher: webrick
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Installing Net instrumentation
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Finished instrumentation
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44827)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Enabling the Request Sampler.
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Environment: development
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Dispatcher: webrick
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Installing Net instrumentation
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Finished instrumentation
+[10/26/13 01:51:54 +0100 Lorraines-MacBook-Pro.local (44831)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Enabling the Request Sampler.
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Environment: development
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Dispatcher: webrick
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Installing Net instrumentation
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Finished instrumentation
+[10/26/13 01:51:55 +0100 Lorraines-MacBook-Pro.local (44834)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Enabling the Request Sampler.
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Environment: development
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Dispatcher: webrick
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Installing Net instrumentation
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Finished instrumentation
+[10/26/13 01:51:56 +0100 Lorraines-MacBook-Pro.local (44837)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Environment: development
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Dispatcher: webrick
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Installing Net instrumentation
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Finished instrumentation
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44843)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Environment: development
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Dispatcher: webrick
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Installing Net instrumentation
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Finished instrumentation
+[10/26/13 01:52:09 +0100 Lorraines-MacBook-Pro.local (44846)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Environment: development
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Dispatcher: webrick
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Installing Net instrumentation
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Finished instrumentation
+[10/26/13 01:52:10 +0100 Lorraines-MacBook-Pro.local (44849)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Environment: development
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Dispatcher: webrick
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Installing Net instrumentation
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Finished instrumentation
+[10/26/13 01:52:11 +0100 Lorraines-MacBook-Pro.local (44852)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Environment: development
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Dispatcher: webrick
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Installing Net instrumentation
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Finished instrumentation
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44857)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Environment: development
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Dispatcher: webrick
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Installing Net instrumentation
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Finished instrumentation
+[10/26/13 01:52:19 +0100 Lorraines-MacBook-Pro.local (44860)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Environment: development
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Dispatcher: webrick
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Installing Net instrumentation
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Finished instrumentation
+[10/26/13 01:52:29 +0100 Lorraines-MacBook-Pro.local (44865)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Environment: development
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Dispatcher: webrick
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Installing Net instrumentation
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Finished instrumentation
+[10/26/13 01:52:30 +0100 Lorraines-MacBook-Pro.local (44868)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Environment: development
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Dispatcher: webrick
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Installing Net instrumentation
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Finished instrumentation
+[10/26/13 01:52:49 +0100 Lorraines-MacBook-Pro.local (44876)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Environment: development
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Dispatcher: webrick
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Installing Net instrumentation
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Finished instrumentation
+[10/26/13 01:52:50 +0100 Lorraines-MacBook-Pro.local (44879)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Environment: development
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Dispatcher: webrick
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Installing Net instrumentation
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Finished instrumentation
+[10/26/13 01:52:57 +0100 Lorraines-MacBook-Pro.local (44884)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Enabling the Request Sampler.
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Environment: development
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Dispatcher: webrick
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Installing Net instrumentation
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Finished instrumentation
+[10/26/13 01:52:58 +0100 Lorraines-MacBook-Pro.local (44887)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Environment: development
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Dispatcher: webrick
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Installing Net instrumentation
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Finished instrumentation
+[10/26/13 01:53:21 +0100 Lorraines-MacBook-Pro.local (44896)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Environment: development
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Dispatcher: webrick
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Installing Net instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Finished instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44899)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Environment: development
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Dispatcher: webrick
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Installing Net instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Finished instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44901)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Environment: development
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Dispatcher: webrick
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Installing Net instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Finished instrumentation
+[10/26/13 01:53:22 +0100 Lorraines-MacBook-Pro.local (44906)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Environment: development
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Dispatcher: webrick
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Installing Net instrumentation
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Finished instrumentation
+[10/26/13 01:53:24 +0100 Lorraines-MacBook-Pro.local (44909)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Environment: development
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Dispatcher: webrick
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Installing Net instrumentation
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Finished instrumentation
+[10/26/13 01:53:25 +0100 Lorraines-MacBook-Pro.local (44912)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Environment: development
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Dispatcher: webrick
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Installing Net instrumentation
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Finished instrumentation
+[10/26/13 01:53:45 +0100 Lorraines-MacBook-Pro.local (44921)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Environment: development
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Dispatcher: webrick
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Installing Net instrumentation
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Finished instrumentation
+[10/26/13 01:53:46 +0100 Lorraines-MacBook-Pro.local (44924)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Environment: development
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Dispatcher: webrick
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Installing Net instrumentation
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Finished instrumentation
+[10/26/13 01:53:47 +0100 Lorraines-MacBook-Pro.local (44928)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Enabling the Request Sampler.
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Environment: development
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Dispatcher: webrick
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Installing Net instrumentation
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Finished instrumentation
+[10/26/13 01:53:48 +0100 Lorraines-MacBook-Pro.local (44931)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Enabling the Request Sampler.
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Environment: development
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Dispatcher: webrick
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Installing Net instrumentation
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Finished instrumentation
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44942)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Enabling the Request Sampler.
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Environment: development
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Dispatcher: webrick
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Installing Net instrumentation
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Finished instrumentation
+[10/26/13 01:54:22 +0100 Lorraines-MacBook-Pro.local (44946)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Enabling the Request Sampler.
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Environment: development
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Dispatcher: webrick
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Installing Net instrumentation
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Finished instrumentation
+[10/26/13 01:54:32 +0100 Lorraines-MacBook-Pro.local (44951)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Enabling the Request Sampler.
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Environment: development
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Dispatcher: webrick
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Installing Net instrumentation
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Finished instrumentation
+[10/26/13 01:54:33 +0100 Lorraines-MacBook-Pro.local (44954)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Enabling the Request Sampler.
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Environment: development
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Dispatcher: webrick
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Installing Net instrumentation
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Finished instrumentation
+[10/26/13 01:54:34 +0100 Lorraines-MacBook-Pro.local (44958)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Enabling the Request Sampler.
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Environment: development
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Dispatcher: webrick
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Installing Net instrumentation
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Finished instrumentation
+[10/26/13 01:54:35 +0100 Lorraines-MacBook-Pro.local (44961)] INFO : Doing deferred dependency-detection before Rack startup
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Starting the New Relic agent in "development" environment.
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Reading configuration from newrelic.yml
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Enabling the Request Sampler.
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Environment: development
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Dispatcher: webrick
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Application: mighty-harbor-3006
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] WARN : Agent configured not to send data in this environment.
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Installing Net instrumentation
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Installing Sinatra instrumentation
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Installing deferred Rack instrumentation
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Finished instrumentation
+[10/26/13 01:56:38 +0100 Lorraines-MacBook-Pro.local (45004)] INFO : Doing deferred dependency-detection before Rack startup
